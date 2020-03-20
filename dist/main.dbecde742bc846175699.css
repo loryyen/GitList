@@ -1,0 +1,4 @@
+.gitList-wrapper .row{display:flex;flex-direction:row}.gitList-wrapper .row.head{background:#c2d1d6}.gitList-wrapper .row .col{margin:5px;flex:1}
+
+.calacator-wrapper{margin:0 auto}@media screen and (max-device-width: 320px){.calacator-wrapper{width:360px}}@media screen and (min-device-width: 1024px){.calacator-wrapper{width:1024px}}
+

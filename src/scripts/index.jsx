@@ -1,6 +1,5 @@
 import React, { FC, useEffect, useState } from "react";
 import ReactDOM from "react-dom";
-import Calcuator from "components/calcuator";
 import GitList from "components/gitList";
 import "assets/styles/index.sass";
 
